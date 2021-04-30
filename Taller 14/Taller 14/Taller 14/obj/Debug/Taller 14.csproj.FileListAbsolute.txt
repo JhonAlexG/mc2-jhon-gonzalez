@@ -12,3 +12,10 @@ D:\Alexis\Git\Git\Trabajos\Taller 14\Taller 14\Taller 14\obj\Debug\Taller 14.csp
 D:\Alexis\Git\Git\Trabajos\Taller 14\Taller 14\Taller 14\obj\Debug\Taller 14.csproj.CoreCompileInputs.cache
 D:\Alexis\Git\Git\Trabajos\Taller 14\Taller 14\Taller 14\obj\Debug\Taller 14.exe
 D:\Alexis\Git\Git\Trabajos\Taller 14\Taller 14\Taller 14\obj\Debug\Taller 14.pdb
+D:\Alexis\Git\Git\Talleres\Taller 14\Taller 14\Taller 14\bin\Debug\Taller 14.exe.config
+D:\Alexis\Git\Git\Talleres\Taller 14\Taller 14\Taller 14\bin\Debug\Taller 14.exe
+D:\Alexis\Git\Git\Talleres\Taller 14\Taller 14\Taller 14\bin\Debug\Taller 14.pdb
+D:\Alexis\Git\Git\Talleres\Taller 14\Taller 14\Taller 14\obj\Debug\Taller 14.csprojAssemblyReference.cache
+D:\Alexis\Git\Git\Talleres\Taller 14\Taller 14\Taller 14\obj\Debug\Taller 14.csproj.CoreCompileInputs.cache
+D:\Alexis\Git\Git\Talleres\Taller 14\Taller 14\Taller 14\obj\Debug\Taller 14.exe
+D:\Alexis\Git\Git\Talleres\Taller 14\Taller 14\Taller 14\obj\Debug\Taller 14.pdb

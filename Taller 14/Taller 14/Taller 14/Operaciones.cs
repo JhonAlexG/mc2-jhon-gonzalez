@@ -44,6 +44,11 @@ namespace Taller_14
                 }
                 Console.WriteLine("");
             }
+            Console.WriteLine("Los resultados del sistema de ecuaciones son:");
+            Console.WriteLine("x1 = "+matrix[0, 4]);
+            Console.WriteLine("x2 = "+matrix[1, 4]);
+            Console.WriteLine("x3 = "+matrix[2, 4]);
+            Console.WriteLine("x4 = "+matrix[3, 4]);
         }
     }
 }
